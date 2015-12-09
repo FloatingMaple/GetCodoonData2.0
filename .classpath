@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="H:/jar包/Jsoup/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="H:/jar包/httpclient/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="H:/jar包/httpclient/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="H:/jar包/httpclient/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="H:/jar包/httpclient/httpclient-4.2.2.jar"/>
+	<classpathentry kind="lib" path="H:/jar包/httpclient/httpcore-4.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
